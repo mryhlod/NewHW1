@@ -1,15 +1,12 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
 
 # C extensions
-*.so
+*.log
+*.db
 
 # Distribution / packaging
-.Python
-build/
-develop-eggs/
+target/
+bin/
 dist/
 downloads/
 eggs/
